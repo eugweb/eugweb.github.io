@@ -6,7 +6,7 @@ main:
     #   url: "TrainingMusicPlayer"
 
     - title: "Privacy Policy"
-      url: "Privacy"
+      url: "/privacy"
 
     - title: "Posts"
       url: "/posts"      
