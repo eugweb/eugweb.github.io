@@ -1,0 +1,12 @@
+main:
+    # - title: "Training Music"
+    #   url: "TrainingMusic"
+
+    # - title: "Training Music Player"
+    #   url: "TrainingMusicPlayer"
+
+    - title: "Privacy Policy"
+      url: "Privacy"
+
+    - title: "Posts"
+      url: "/posts"      
