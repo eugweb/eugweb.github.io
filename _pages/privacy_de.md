@@ -5,16 +5,11 @@ permalink: /privacy_de/
 date: 2019-10-10
 ---
 
-MYAPP ("wir", "uns", "unser" usw.) betreibt die mobile App MYAPP (nachstehend als "Dienst" bezeichnet).
-
-Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen. Our Privacy Policy  for MYAPP is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator.
+Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen. Our Privacy Policy  for MusicTrainer(Player) is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator.
 
 Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durch Inanspruchnahme des Dienstes erklären Sie sich mit der Erfassung und Nutzung von Daten durch uns nach Maßgabe dieser Richtlinie einverstanden. Soweit in dieser Datenschutz-Richtlinie nicht jeweils etwas anderes angegeben ist, kommt den in dieser Datenschutz-Richtlinie vorkommenden Begriffen jeweils dieselbe Bedeutung zu, die diesen in unseren Allgemeinen Geschäftsbedingungen (Terms and Conditions) zugewiesen wurde.
 
 ## Begriffsbestimmungen
-### Dienst
-Der Dienst ist die von dem MYAPP betriebene mobile App MYAPP
-
 ### Personenbezogene Daten
 Personenbezogene Daten sind Daten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) identifizierbar ist.
     
@@ -53,7 +48,7 @@ Beispiele für von uns eingesetzte Cookies:
 
 
 ## Datennutzung 
-Wir bei MYAPP nutzen die erfassten Daten für verschiedene Zwecke, beispielsweise um:    
+Wir bei MusicTrainer(Player) nutzen die erfassten Daten für verschiedene Zwecke, beispielsweise um:    
 - Ihnen unseren Dienst zur Verfügung zu stellen und diesen aufrecht zu erhalten;
 - Ihnen Änderungen in Bezug auf unseren Dienst mitzuteilen;
 - es Ihnen auf Wunsch zu ermöglichen, an den interaktiven Teilen unseres Dienstes teilzunehmen;
@@ -69,14 +64,14 @@ Falls Sie sich außerhalb von Germany befinden und sich dazu entscheiden, Daten 
 
 Ihre Zustimmung zu dieser Datenschutz-Richtlinie und eine nachfolgende Übermittlung von Daten Ihrerseits stellt eine Einverständniserklärung Ihrerseits zu der genannten Übertragung dar.
 
-MYAPP wird alle im zumutbaren Rahmen erforderlichen Schritte unternehmen um sicherzustellen, dass Ihre Daten auf sichere Weise sowie in Übereinstimmung mit dieser Datenschutz-Richtlinie behandelt werden, und dass Ihre personenbezogenen Daten nicht an Organisationen oder in Länder übertragen werden, hinsichtlich welcher keine hinreichenden Kontrollmechanismen in Bezug auf die Sicherheit Ihrer Daten und sonstigen personenbezogenen Informationen vorliegen.
+MusicTrainer(Player) wird alle im zumutbaren Rahmen erforderlichen Schritte unternehmen um sicherzustellen, dass Ihre Daten auf sichere Weise sowie in Übereinstimmung mit dieser Datenschutz-Richtlinie behandelt werden, und dass Ihre personenbezogenen Daten nicht an Organisationen oder in Länder übertragen werden, hinsichtlich welcher keine hinreichenden Kontrollmechanismen in Bezug auf die Sicherheit Ihrer Daten und sonstigen personenbezogenen Informationen vorliegen.
 
 ## Offenlegung von Daten
 
 ### Gesetzliche Anforderungen
-MYAPP kann Ihre personenbezogenen Daten unter Umständen offenlegen, wenn es unter Beachtung der Grundsätze von Treu und Glauben der Ansicht ist, dass dies zur Erreichung der nachfolgenden Zielsetzungen erforderlich ist:
+MusicTrainer(Player) kann Ihre personenbezogenen Daten unter Umständen offenlegen, wenn es unter Beachtung der Grundsätze von Treu und Glauben der Ansicht ist, dass dies zur Erreichung der nachfolgenden Zielsetzungen erforderlich ist:
 - zur Erfüllung einer gesetzlichen Pflicht
-- zum Schutz und zur Verteidigung der Rechte oder des Eigentums von MYAPP
+- zum Schutz und zur Verteidigung der Rechte oder des Eigentums von MusicTrainer(Player)
 - zur Vermeidung oder Untersuchung möglicher Fehlverhaltensweisen in Bezug auf den Dienst 
 - zum Schutz der persönlichen Sicherheit der Nutzer des Dienstes oder der Öffentlichkeit
 - zur Vermeidung von Haftungsansprüchen
@@ -94,11 +89,6 @@ Unser Dienst kann Links zu anderen Websites enthalten, die nicht von uns betrieb
 
 Wir haben keine Kontrolle über die Inhalte, Datenschutzvorschriften und -praktiken dritter Websites oder Dienste und übernehmen in diesem Zusammenhang keine Haftung.
 
-## Privatsphäre Minderjähriger
-Unser Dienst richtet sich nicht an Personen, die das 18. Lebensjahr noch nicht vollendet haben ("minderjährige Personen").
-
-Wir erfassen wissentlich keine persönlich identifizierbaren Daten zu minderjährigen Personen. Falls Sie ein Elternteil oder Vormund sind und es Ihnen bekannt wird, dass eine Ihrer Aufsicht unterstehende minderjährige Person uns personenbezogene Daten übermittelt hat, bitten wir Sie, mit uns Kontakt aufzunehmen. Falls uns bekannt wird, dass wir personenbezogene Daten einer minderjährigen Person ohne elterliche Zustimmung erfasst haben, setzen wir Maßnahmen zur Entfernung dieser Daten von unseren Servern um.
-
 ## Änderungen dieser Datenschutz-Richtlinie
 Wir können unsere Datenschutz-Richtlinie von Zeit zu Zeit aktualisieren. Jegliche solcher Änderungen teilen wir Ihnen mit, indem wir die aktualisierte Fassung auf dieser Seite veröffentlichen.
 
@@ -107,7 +97,4 @@ Wir werden Sie vor dem Inkrafttreten der betreffenden Änderung per E-Mail und/o
 Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen hin durchzusehen. Änderungen dieser Datenschutz-Richtlinie werden im Zeitpunkt ihrer Veröffentlichung auf dieser Seite wirksam.
 
 ## Kontaktaufnahme
-Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:
-- Per E-Mail: office@mycompany.com
-          
-        
+Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie uns über die Reviews in AppStore kontaktieren.
