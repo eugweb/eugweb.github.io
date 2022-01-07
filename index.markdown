@@ -1,5 +1,5 @@
 ---
-title: "Training Music"
+title: "Ballroom Collection"
 layout: splash
 # layout: single
 permalink: /
@@ -19,7 +19,7 @@ excerpt: "Applications for dance trainings"
 author_profile: true 
 ---
 
-# Training Music
+# Ballroom Competition
 
 ![](/assets/images/music/music0.png)
 
@@ -40,7 +40,7 @@ You can control a competition training from your Apple Watch.
 
 
 
-# Training Music Player
+# Ballroom Music Player
 
 ![](/assets/images/player/player6.png)
 
